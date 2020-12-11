@@ -1,0 +1,16 @@
+# This is a generated file; do not edit or check into version control.
+barcode_scan=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/barcode_scan-2.0.2/
+countly_flutter=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/countly_flutter-20.04.1/
+device_info=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/device_info-1.0.0/
+flutter_plugin_android_lifecycle=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-1.0.11/
+fluttertoast=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-7.1.5/
+package_info=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_info-0.4.3+2/
+path_provider=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.24/
+path_provider_linux=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-0.0.1+2/
+path_provider_macos=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_macos-0.0.4+6/
+path_provider_windows=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_windows-0.0.4+3/
+shared_preferences=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.12+4/
+shared_preferences_linux=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_linux-0.0.2+4/
+shared_preferences_macos=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_macos-0.0.1+11/
+shared_preferences_web=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-0.1.2+7/
+shared_preferences_windows=/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_windows-0.0.1+3/
